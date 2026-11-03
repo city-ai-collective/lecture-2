@@ -1,1 +1,4 @@
-# lecture-2
+# Lecture 2
+
+This is the second lecture.
+ML
